@@ -1,4 +1,4 @@
-# Scramble Cards: A learning activity
+# Scramble Cards: A fun learning activity
 
 A fun activity to play with students. Originally the way I set this up is by having students be put in groups and then showing them a problem. The groups have to finish the problem in a set amount of time. When the time is up I have a group of students explain their answer and if possible show their work and walk us thorugh it. After having their solution shown I check all other groups solutions to see who else had the correct solution. All groups who had a correct solution get a chance to pick a card from the app. The card will then tell you how many points the group will earn or lose.
 
