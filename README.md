@@ -18,7 +18,7 @@ The probablity of getting a card with plus or minus 1 point is higher than getti
 - \-3 points
 - Swap points with any team
 
-###Download
+### Download
 To download and run on your desktop unzip the Release folder and run the "cards" application
 Link to the Release folder: https://drive.google.com/drive/folders/13ST2NhhCGwDMh1ZOSIVyqNA_g8RvsB7v?usp=sharing
 
