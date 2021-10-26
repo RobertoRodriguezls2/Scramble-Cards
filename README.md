@@ -10,12 +10,12 @@ The probablity of getting a card with plus or minus 1 point is higher than getti
 ### Possible card
 
 ![Screenshot 2021-10-26 115452](https://user-images.githubusercontent.com/79487120/138944410-8eb11c40-26a1-46ce-9615-bb3306cd75b5.png)
-- \-\- 1point
-- - 1 point
-- + 2 points
-- - 2 points
-- + 3 points
-- - 3 points
+- \- 1point
+- \- 1 point
+- \+ 2 points
+- \- 2 points
+- \+ 3 points
+- \- 3 points
 - Swap points with any team
 
 
