@@ -7,7 +7,7 @@ A fun activity to play with students. Originally the way I set this up is by hav
 ## A game of Chance
 The probablity of getting a card with plus or minus 1 point is higher than getting a card with plus or minus 3 points. Wild cards such as swapping points with any team are also possible to get.
 
-### Possible card
+### Possible cards
 
 ![Screenshot 2021-10-26 115452](https://user-images.githubusercontent.com/79487120/138944410-8eb11c40-26a1-46ce-9615-bb3306cd75b5.png)
 - \+1 point
@@ -18,5 +18,8 @@ The probablity of getting a card with plus or minus 1 point is higher than getti
 - \-3 points
 - Swap points with any team
 
+###Download
+To download and run on your desktop unzip the Release folder and run the "cards" application
+Link to the Release folder: https://drive.google.com/drive/folders/13ST2NhhCGwDMh1ZOSIVyqNA_g8RvsB7v?usp=sharing
 
 
